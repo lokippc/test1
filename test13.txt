@@ -6,6 +6,7 @@
 词组测试2
 2222222
 3333333
+4444444444
 B75CA5BDADA7B00E9211F402B3794EA8
 身份证号：411127193507241314
 EVENT_LOG_PRINTA << "=====================CreateThread, CAutoUpdater::UpdateThread, thread_id:" << m_dwThreadID;
